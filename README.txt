@@ -6,8 +6,3 @@
 <p>Further down is a list of my skills, I am well versed to solve your complex technical problems</p>
 
 <p>Feel free to contact me for any questions about the site or my availability: richmeyerjobs@gmail.com</p>
-
-
-
-
-
